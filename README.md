@@ -1,6 +1,6 @@
 # Frontend Bundle
 ## Description
-Bundle for fronend development based on Parcel
+Bundle for frontend development based on Parcel
 ## Install
 Clone rep
 ```
