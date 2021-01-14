@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend development bundle based on Parcel",
+  "main": "src/js/app.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radio-mouse/frontend.git"
+  },
+  "author": "RadioMouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radio-mouse/frontend/issues"
+  },
+  "homepage": "https://github.com/radio-mouse/frontend#readme"
+}
