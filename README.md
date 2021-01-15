@@ -1,6 +1,9 @@
 # Frontend Bundle
-## Description
 Bundle for frontend development based on Parcel
+## Includes
+* Parcel
+* http-server
+* npm-run-all
 ## Install
 Clone rep
 ```
@@ -16,13 +19,16 @@ Install Parcel globally
 ```
 npm i -g parcel-bundler
 ```
-
-Run 'dev' for development (parcel index.html)
+Install http-server and npm-run-all
+```
+npm i
+```
+Run 'dev' for development
 ```
 npm run dev
 ```
 
-Run 'build' for production (parcel build index.html)
+Run 'build' for production
 ```
 npm run build
 ```
