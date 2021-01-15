@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Frontend development bundle based on Parcel",
   "main": "src/js/app.js",
   "scripts": {
