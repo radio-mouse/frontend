@@ -22,11 +22,18 @@ Install plugins
 ```
 npm i
 ```
+Init linter
+```
+npx eslint --init
+```
+Run 'start' for lint at the beginning and development
+```
+npm run start
+```
 Run 'dev' for development
 ```
-npm run dev
+npm run start
 ```
-
 Run 'build' for production
 ```
 npm run build

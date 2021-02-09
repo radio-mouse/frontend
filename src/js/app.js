@@ -1,9 +1,7 @@
-import events from 'events'
-import init from 'init'
+import * as events from './events'
+import * as init from './init'
 
-const start = () => {
-    init()
-    events()
-}
-
-document.addEventListener(`DOMContentLoaded`, start)
+document.addEventListener('DOMContentLoaded', () => {
+	init.index()
+	events.header()
+})

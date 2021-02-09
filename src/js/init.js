@@ -1,5 +1,3 @@
-const init = () => {
-    
-}
+export const index = () => {
 
-export default init
+}

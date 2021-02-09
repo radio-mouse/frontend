@@ -1,5 +1,2 @@
-const events = () => {
-    
+export const header = () => {
 }
-
-export default events
