@@ -3,6 +3,7 @@ Bundle for frontend development based on Parcel
 ## Includes
 * Parcel
 * npm-run-all
+* es-lint (airbnb-base)
 ## Install
 Clone rep
 ```
@@ -22,17 +23,13 @@ Install plugins
 ```
 npm i
 ```
-Init linter
+Run 'start' for lint then development
 ```
-npx eslint --init
+npm start
 ```
-Run 'start' for lint at the beginning and development
+Run 'lint' for lint 
 ```
-npm run start
-```
-Run 'dev' for development
-```
-npm run dev
+npm run lint
 ```
 Run 'build' for production
 ```

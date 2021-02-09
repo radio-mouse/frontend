@@ -1,7 +1,7 @@
-import * as events from './events'
-import * as init from './init'
+import events from './events';
+import init from './init';
 
 document.addEventListener('DOMContentLoaded', () => {
-	init.index()
-	events.header()
-})
+  init();
+  events();
+});

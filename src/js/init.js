@@ -1,3 +1,4 @@
-export const index = () => {
+const init = () => {
+};
 
-}
+export default init;

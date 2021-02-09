@@ -1,2 +1,4 @@
-export const header = () => {
-}
+const events = () => {
+};
+
+export default events;
