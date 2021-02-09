@@ -7,7 +7,7 @@
     "lint": "npx eslint src/js/**",
     "dev": "parcel src/scss/main.scss src/js/app.js",
     "build": "parcel build src/scss/main.scss src/js/app.js",
-    "start": "run-p dev lint"
+    "start": "run-s lint dev"
   },
   "repository": {
     "type": "git",

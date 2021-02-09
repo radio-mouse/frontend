@@ -32,7 +32,7 @@ npm run start
 ```
 Run 'dev' for development
 ```
-npm run start
+npm run dev
 ```
 Run 'build' for production
 ```
