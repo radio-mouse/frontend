@@ -33,10 +33,6 @@ Run 'start' for lint and then development
 ```
 npm start
 ```
-Run 'lint' for lint
-```
-npm run lint
-```
 Run 'build' for production
 ```
 npm run build
